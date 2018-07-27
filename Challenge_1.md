@@ -13,10 +13,18 @@ Add your entry under the headings below:
 ## Alpha Team
 
 - :sushi: Woo Song
+- :alien: Mel Gross
+- :vhs: Jordan Zagerman
+- :moyai: Ben Rodia
 
 ## Beta Team
+
+- :dart: Yuang Li
 
 ## Charlie Team
 
 - :godmode: Jake Culp
 - :panda_face: Veronica Lin
+- :hammer: Mike Carbone
+- :raising_hand: Hannah Sayer
+- :dog: Sarah Bray
